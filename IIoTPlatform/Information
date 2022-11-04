@@ -1,1 +1,6 @@
-
+墨刀内部網頁URL通過以下網址獲得
+http://raw.githack.com/
+使用方法：
+1. 複製GitHub倉庫内HTML文件對應permalink
+2. 在上述網址下粘貼，新URL鏈接即生成
+3. 複製新URL鏈接到墨刀網頁URL中
